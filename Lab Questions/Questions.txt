@@ -1,6 +1,0 @@
-// WAP if a number is divisible by 3 and 7 both.
-// WAP to accept 3 sides of a triangle and check if its a icoceles scalese or equilateral.
-// WAP that checks wherether a number is divisible by 5, use ternary operator.
-// WAP that finds maximum of three numbers, using ternary operator.
-// WAP that accepts an operator from the user (+, -, *, /) and performs mathematical functions, use switchcase.
-// WAP that finds sum of N natural numbers. and sumn of (N^2) natural numbers.
