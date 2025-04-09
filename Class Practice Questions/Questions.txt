@@ -27,3 +27,12 @@ The bank should have a list of accounts and methods for adding them.
 Accounts should be an interface with methods to deposit, withdraw, calculate interest, and view balances. 
 SavingsAccount and CurrentAccount should implement the Account interface and have their own unique methods.
 */
+
+-- 09 April 2025
+Write a Java program that throws an exception and catch it using a try-catch block.
+
+WAP to demonstate throws keyword
+
+WAP to create a User defined exception: NoMatch Exception that is generated when string entered by the user is not equal to ABC
+
+WAP to showcase Multicatch statements
